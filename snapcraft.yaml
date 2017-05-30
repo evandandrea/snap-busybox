@@ -1,4 +1,4 @@
-name: busybox
+name: nikolay
 version: 1.0
 summary: busybox example to showcase the snapcraft kbuild plugin
 description:
